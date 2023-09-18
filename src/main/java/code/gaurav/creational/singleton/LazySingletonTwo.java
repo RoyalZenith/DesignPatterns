@@ -12,5 +12,5 @@ public class LazySingletonTwo {
     }
 
     // Pros: thread safe
-    // Cons : slow in performance
+    // Cons : slow orderManager performance
 }
